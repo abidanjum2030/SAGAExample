@@ -1,5 +1,7 @@
 package com.payment.microservice;
 
+import com.payment.microservice.entity.CustomerOrder;
+
 public class PaymentEvent {
 
     private String type;

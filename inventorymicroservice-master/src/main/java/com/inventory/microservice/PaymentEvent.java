@@ -1,5 +1,7 @@
 package com.inventory.microservice;
 
+import com.inventory.microservice.entity.CustomerOrder;
+
 public class PaymentEvent {
 
     private String type;

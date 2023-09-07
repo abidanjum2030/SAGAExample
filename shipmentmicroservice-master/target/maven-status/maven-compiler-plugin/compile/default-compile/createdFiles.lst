@@ -1,0 +1,6 @@
+com\shipment\microservice\InventoryEvent.class
+com\shipment\microservice\ShipmentController.class
+com\shipment\microservice\ShipmentRepository.class
+com\shipment\microservice\MicroserviceApplication.class
+com\shipment\microservice\CustomerOrder.class
+com\shipment\microservice\Shipment.class

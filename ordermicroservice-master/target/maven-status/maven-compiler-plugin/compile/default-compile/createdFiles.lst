@@ -1,0 +1,8 @@
+com\order\microservice\OrderEvent.class
+com\order\microservice\entity\OrderEntity.class
+com\order\microservice\controller\OrderController.class
+com\order\microservice\Payment.class
+com\order\microservice\CustomerOrder.class
+com\order\microservice\repository\OrderRepository.class
+com\order\microservice\MicroserviceApplication.class
+com\order\microservice\ReverseOrder.class

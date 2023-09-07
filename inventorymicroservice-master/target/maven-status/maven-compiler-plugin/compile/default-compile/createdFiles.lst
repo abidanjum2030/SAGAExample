@@ -1,0 +1,9 @@
+com\inventory\microservice\CustomerOrder.class
+com\inventory\microservice\InventoryEvent.class
+com\inventory\microservice\InventoryController.class
+com\inventory\microservice\PaymentEvent.class
+com\inventory\microservice\ReverseInventory.class
+com\inventory\microservice\MicroserviceApplication.class
+com\inventory\microservice\InventoryRepository.class
+com\inventory\microservice\Inventory.class
+com\inventory\microservice\Stock.class
